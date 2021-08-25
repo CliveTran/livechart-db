@@ -22,7 +22,7 @@ This repository contains a JSON file which is an array of Anime and has the foll
 | source | ```string``` | no |
 | episodes | ```string``` | no |
 | runTime | ```string``` | no |
-| tags | ```string[]``` | no |
+| tags | ```string[]``` | yes |
 | studio | ```string``` | no |
 | externalResources | ```string[]``` | no |
 
