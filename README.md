@@ -3,10 +3,11 @@ An JSON raw data downloaded from livechart.me used for supporting more data fiel
 
 ## Structure
 This repository contains a JSON file which is an array of Anime and has the following model structure.
+#### Last update: 25/08/2021 (9471 entries)
 
-### livechart-raw-data.json
+## livechart-raw-data.json
 
-#### Data types
+#### Data types:
 
 **Anime**
 | Field | Type | Nullable |
