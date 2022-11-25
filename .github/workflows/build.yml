@@ -1,4 +1,4 @@
-name: Check JSON files
+name: Check JSON file
 
 on:
   push:
