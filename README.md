@@ -1,6 +1,6 @@
 # Livechart.me Database (livechart.me JSON raw data)
 A JSON raw data crawled from livechart.me used for supporting more data fields got from [anime-offline-database](https://github.com/manami-project/anime-offline-database) - [livechart.me](https://www.livechart.me/) metadata provider.
-#### Last update: 25/11/2022 (10301 entries)
+#### Last update: 25/11/2022 (10301 entries) [![Check JSON file](https://github.com/CliveTran/livechart-db/actions/workflows/build.yml/badge.svg)](https://github.com/CliveTran/livechart-db/actions/workflows/build.yml)
 
 ## Structure
 This repository contains a JSON file which is an array of Anime and has the following model structure.
